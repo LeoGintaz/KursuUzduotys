@@ -1,0 +1,10 @@
+.kvadratas  {
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-width: 2px;
+    border-color: green;
+    margin-bottom: -15px;
+     
+}
